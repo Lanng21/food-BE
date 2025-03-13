@@ -14,7 +14,7 @@
 Chạy các lệnh bên dưới:
 
 ```bash
-git clone https://github.com/PhamNhuQuocBao/Order_Food_Backend
+git clone https://github.com/Lanng21/food-BE.git
 cd Order_Food_Backend
 bun install
 ```
